@@ -25,3 +25,5 @@ https://nandacodes-dev.github.io/ChaiCode/resume.html
 Clone or download the repository
 
 git clone https://github.com/nandacodes-dev/ChaiCode.git
+
+![Resume Preview](resume.png)
