@@ -26,4 +26,4 @@ Clone or download the repository
 
 git clone https://github.com/nandacodes-dev/ChaiCode.git
 
-![Resume Preview](resume.png)
+![Resume Preview](screenshot.png)
